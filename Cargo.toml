@@ -1,0 +1,9 @@
+[package]
+name = "viper"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ggez = "0.7"
+oorandom = "11.1.3"
+getrandom = "0.2.4"

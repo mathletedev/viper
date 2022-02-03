@@ -1,2 +1,3 @@
-# viper
-Snake game written in Rust
+# Viper
+
+> Snake game written in Rust
